@@ -12,7 +12,7 @@
 #ok values are 60 (1min), 120 (2mins), 300 (5mins), 600 (10mins), 1200 (20mins), 1800 (30mins), 3600 (1hour)
 minSSTime=600
 
-#Require password?  YES,NO,TRUE,FALSE are acceptable
+#Require password?  1 is YES, 0 is NO
 requirePW=1
 
 #number of seconds for password to be required.
