@@ -17,7 +17,7 @@ requirePW=1
 
 #number of seconds for password to be required.
 #ok values are 0 (immediatly), 5, 60, 300 (5mins), 900 (15mins), 3600 (1 hour), 14400 (4 hours)
-minPWTime=5
+minPWTime=900
 #=========================================================
 
 
